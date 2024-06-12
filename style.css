@@ -1,0 +1,40 @@
+body {
+  background-color: white;
+}
+h1 {
+  color: rgb(206, 101, 162);
+  text-align: left fontg;
+  font-family: sans-serif;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.active {
+  background-color: #58257b;
+  color: white;
+}
+li {
+  border-right: 1px solid #db7093;
+}
+li:last-child {
+  border-right: none;
+}
+ul {
+  border: 1px solid #d6b7eb;
+  background-color: #e9d8f4;
+}
+li a {
+  color: #black;
+}
+.header {
+  background-color: #ffffff;
+  color: #ece8ee;
+  text-align: center;
+  padding: 20px;
+}
+h1 p:hover {
+  color: rgb(226, 111, 169);
+  font-size: 103%;
+}
